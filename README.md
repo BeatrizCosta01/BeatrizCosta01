@@ -21,4 +21,4 @@
 </div> 
 
 
-![Cobrinha](https://github.com/seu-nome-de-usuario/seu-nome-de-usuario/blob/output/github-contribution-grid-snake.svg)
+
